@@ -1,6 +1,6 @@
 # Hi, I'm Francisco Palumbo
 
-Final-year **Data Science** student at the **University of Melbourne** with strong foundations in Python, SQL, and machine learning.  
+Final-year **Data Science** student at the **University of Melbourne** with strong foundations in Python, SQL, C, and machine learning.  
 
 I’m passionate about applying **data analytics and predictive modelling** to solve real-world business and operational problems, particularly in **risk analytics, operational optimisation, and public-sector data**.
 
