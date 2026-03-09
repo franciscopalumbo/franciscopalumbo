@@ -1,6 +1,7 @@
 # Hi, I'm Francisco Palumbo
 
-Final-year **Data Science** student at the **University of Melbourne** with strong foundations in Python, SQL, C, and machine learning.  
+3rd year **Data Science** student at the **University of Melbourne** with strong foundations in Python, SQL, C, and machine learning.
+(graduating 2026), commencing Masters in Data Science 2027.
 
 I’m passionate about applying **data analytics and predictive modelling** to solve real-world business and operational problems, particularly in **risk analytics, operational optimisation, and public-sector data**.
 
@@ -10,17 +11,16 @@ I’m passionate about applying **data analytics and predictive modelling** to s
 - **Programming:** Python (pandas, numpy, scikit-learn), SQL, C  
 - **Data Analysis:** Data cleaning, statistical modelling, exploratory data analysis  
 - **Machine Learning:** Classification, regression, model evaluation, bias-variance tradeoff  
-- **Visualization & BI:** Matplotlib, Seaborn, Power BI (learning)  
+- **Visualization & BI:** Matplotlib, Seaborn
 - **Tools & Practices:** Git, Jupyter Notebooks
 ---
 
-## Projects in Progress / Highlights
+## Projects
 
-- **Credit Risk Prediction** – Built a logistic regression and random forest model to predict borrower defaults, with feature importance analysis and business-impact discussion  
-- **Government Data Analytics** – Time-series and trend analysis project using public ABS datasets, with actionable policy insights  
-- **Operational Failure Prediction (Mining / Industry Simulation)** – Predicted equipment downtime using classification models, estimating cost savings and operational improvements
-
-*(All projects will be linked here once complete.)*
+**[Credit Risk Default Prediction](https://github.com/franciscopalumbo/credit-risk-default)**
+Predicting loan default risk on 1.3M real Lending Club loans using Logistic Regression 
+and Random Forest. Achieves 63% recall on defaulters with ROC-AUC of 0.706.
+`Python` `scikit-learn` `pandas` `matplotlib`
 
 ---
 
